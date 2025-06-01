@@ -1,0 +1,22 @@
+[
+  {
+    "directory": "Addons/test.mcpack",
+    "displayImage": "Banners/Bedrock Developer Art.png",
+    "displayName": "Bedrock Developer Art",
+    "gameversion": "1.16.100",
+    "packversion": "1.0.0",
+    "author": "Bedrock Studio",
+    "description": "Explore new realms with exciting challenges.",
+    "type": "addons"
+  },
+  {
+    "directory": "Worlds/Example World.mcpack",
+    "displayImage": "Banners/Example World.png",
+    "displayName": "Example World",
+    "gameversion": "1.16.100",
+    "packversion": "1.0.0",
+    "author": "World Maker",
+    "description": "A creative world example.",
+    "type": "worlds"
+  }
+]
